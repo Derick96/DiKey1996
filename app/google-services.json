@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155296572660",
+    "project_id": "dikeyventas-1996",
+    "storage_bucket": "dikeyventas-1996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155296572660:android:ddd268f0ec41af0ca6eaa1",
+        "android_client_info": {
+          "package_name": "com.example.dikey1996"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155296572660-vsbvir2f1jqa68ej98rdjsqcq1ruod1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6k0_65gxD97n7rhwpIuJARBLuzCY8uKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155296572660-vsbvir2f1jqa68ej98rdjsqcq1ruod1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
